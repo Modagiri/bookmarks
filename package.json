@@ -1,0 +1,20 @@
+{
+  "name": "bookmarks",
+  "version": "1.0.0",
+  "description": "Shit app",
+  "main": "app/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "*.js",
+    "*.html",
+    "node_modules"
+  ],
+  "author": "A brotha in need",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^2.0.2"
+  }
+}
